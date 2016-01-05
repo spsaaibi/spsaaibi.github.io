@@ -1,0 +1,27 @@
+---
+layout:  post
+title: "Iris Exploration"
+comments:  true
+published:  true
+author: "Sebastian Perez Saaibi"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+categories: [R, 'Data Science']
+output:
+  html_document:
+    mathjax:  default
+    fig_caption:  true
+---
+
+
+Let's visualize the good ol' iris dataset:
+
+```{r include = FALSE}
+library(knitr)
+library(ggplot2)
+```
+
+```{r,echo=FALSE, warning=FALSE, results='asis'}
+ggplot(iris) + geom_point(aes(Sepal.Length,Sepal.Width, color = Species)) + theme_bw() + ggtitle("Sepal Dimensions")
+```
+
+

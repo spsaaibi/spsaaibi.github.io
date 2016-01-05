@@ -1,4 +1,4 @@
-The MIT License (MIT)
+# Released under the MIT License (MIT)
 
 Copyright (c) 2016 Sebastian Perez Saaibi
 
