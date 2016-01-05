@@ -1,0 +1,17 @@
+{
+    "contents" : "---\nlayout:  post\ntitle: \"Iris Exploration\"\ncomments:  true\npublished:  true\nauthor: \"Sebastian Perez Saaibi\"\ndate: \"`r format(Sys.time(), '%d %B, %Y')`\"\ncategories: [R, 'Data Science']\noutput:\n  html_document:\n    mathjax:  default\n    fig_caption:  true\n---\n\n\nLet's visualize the good ol' iris dataset:\n\n```{r include = FALSE}\nlibrary(knitr)\nlibrary(ggplot2)\n```\n\n```{r,echo=FALSE, warning=FALSE, results='asis'}\nggplot(iris) + geom_point(aes(Sepal.Length,Sepal.Width, color = Species)) + theme_bw() + ggtitle(\"Sepal Dimensions\")\n```\n\n\n",
+    "created" : 1451996975690.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3675460620",
+    "id" : "A0B2655",
+    "lastKnownWriteTime" : 1451999987,
+    "path" : "~/Documents/dev/web/spsaaibi.github.io/_source/2016-01-05-hello-world.Rmd",
+    "project_path" : "_source/2016-01-05-hello-world.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}
