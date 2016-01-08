@@ -19,14 +19,15 @@ Let's visualize the good ol' iris dataset:
 library(knitr)
 library(ggplot2)
 library(plotly)
+library(ggthemes)
 ```
 
-```{r,echo=FALSE, warning=FALSE, results='asis'}
-p <- ggplot(iris) + geom_point(aes(Sepal.Length,Sepal.Width, color = Species)) + theme_bw() + ggtitle("Sepal Dimensions")
+```{r,echo=FALSE, warning=FALSE, message= FALSE, results='asis'}
+p <- ggplot(iris) + geom_point(aes(Sepal.Length,Sepal.Width, color = Species)) + theme_wsj() + ggtitle("Sepal Dimensions")
 print(p)
 ```
 
-```{r,echo=FALSE, warning=FALSE, results='asis'}
+```{r,echo=FALSE, warning=FALSE, message= FALSE, results='asis'}
 p <- plot_ly(iris, x = Petal.Length, y = Petal.Width,
         color = Species, mode = "markers")
 p

@@ -1,6 +1,6 @@
 ---
 layout:  post
-title: "Some Machine Learning"
+title: "Testing Leaflet"
 comments:  true
 published:  true
 author: "Sebastian Perez Saaibi"
@@ -15,7 +15,15 @@ output:
 
 Now for some Machine Learning
 
-```{r,echo=FALSE, warning=FALSE, results='asis'}
+
+```{r,echo=FALSE, warning=FALSE, message=FALSE, results='asis'}
+library(forecast)
+library(ggthemes)
+
+ggplot(mtcars) + geom_point(aes(wt,qsec, color = cyl)) + theme_economist()
+```
+
+```{r,echo=FALSE, warning=FALSE, message=FALSE, results='asis'}
  library(leaflet)
  
  m <- leaflet() %>%

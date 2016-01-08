@@ -24,8 +24,8 @@ layout: default
   </ul>
 </div>
 
-% assign dep_file = page.url | split: '/' | last | prepend : 'htmlwidgets/' %}
-{% assign dep_file_inc = dep_file | prepend : '_includes/' %}
+{% assign dep_file = page.url | split: '/' | last | prepend : 'htmlwidgets/' %}
+{% include {{dep_file}} %}
 
 {% if site.twitter %}
 {% include twitter_button.html %}
