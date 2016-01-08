@@ -23,10 +23,11 @@ local({
     # you may want to adapt them to your own website
     knitr::opts_chunk$set(fig.path = sprintf('%s/', gsub('^.+/', '', d)))
     knitr::opts_knit$set(
-      base.dir = '~/Dropbox/Public/jekyll/',
-      base.url = 'https://www.dropbox.com/sh/orkmbexqh3c0n0y/AADNo0xV6H0UB1tehmt2QTIla?dl=0/jekyll/'
-    )
+      base.dir = '~/Dropbox/Public/blog/',
+      base.url = 'https://www.dropbox.com/sh/yk372au7ael7qw1/AAA_V9WftBHlYooLCCrBvhVVa?dl=0/blog/'
+      )
   }
   knitr::opts_knit$set(width = 70)
   knitr::knit(a[1], a[2], quiet = TRUE, encoding = 'UTF-8', envir = .GlobalEnv)
+  brocks::htmlwidgets_deps(a, always = TRUE)
 })
