@@ -1,11 +1,11 @@
 ---
 layout:  post
-title: "Iris Exploration"
+title: "Hello World: Static and Interactive Visualizations!"
 comments:  true
 published:  true
 author: "Sebastian Perez Saaibi"
-date: "`r format(Sys.time(), '%d %B, %Y')`"
-categories: [R, 'Data Science']
+date: "2016-01-05"
+categories: [R, "htmlwidgets", "visualization"]
 output:
   html_document:
     mathjax:  default
@@ -13,13 +13,19 @@ output:
 ---
 
 
-Let's visualize the good ol' iris dataset:
+Hi!
+This is my first post. Here I'm just interested in exploring how to make some simple (but cool) plots, both static and dynamic using R.
+
+Enjoy the results (and interact with them).
+
+
 
 ```{r include = FALSE}
 library(knitr)
 library(ggplot2)
 library(plotly)
 library(ggthemes)
+library(leaflet)
 ```
 
 ```{r,echo=FALSE, warning=FALSE, message= FALSE, results='asis'}
@@ -32,4 +38,24 @@ p <- plot_ly(iris, x = Petal.Length, y = Petal.Width,
         color = Species, mode = "markers")
 p
 ```
+
+
+```{r,echo=FALSE, warning=FALSE, message=FALSE, results='asis'}
+library(forecast)
+library(ggthemes)
+
+ggplot(mtcars) + geom_point(aes(wt,qsec, color = cyl)) + theme_economist()
+```
+
+```{r,echo=FALSE, warning=FALSE, message=FALSE, results='asis'}
+ library(leaflet)
+ 
+ m <- leaflet() %>%
+   addTiles() %>%  # Add default OpenStreetMap map tiles
+   addMarkers(lng = -0.07125, lat = 51.51895, 
+              popup = "Reasonably Priced Stella Artois")
+ m
+```
+
+
 

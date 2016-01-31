@@ -4,6 +4,6 @@ title: About
 ---
 
 <p class="message">
-  Rants about data science and machine learning
+  Rants about data science and a bit of machine learning
 </p>
 
