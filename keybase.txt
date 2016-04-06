@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/spsaaibi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://spsaaibi.xyz
+  * I am spsaaibi (https://keybase.io/spsaaibi) on keybase.
+  * I have a public key ASCUqN8jic5HtTs_BQmHQJagNddy0ANDVfA8kqx7M4K0NQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010137fc1c9b83814278d18a9740d250fe57e16d606c59657dd6faf38782c6cc2c5b0a",
+            "host": "keybase.io",
+            "kid": "012094a8df2389ce47b53b3f0509874096a035d772d0034355f03c92ac7b3382b4350a",
+            "uid": "0a1f738c17ffb9e01cdb6d2af0313000",
+            "username": "spsaaibi"
+        },
+        "service": {
+            "hostname": "spsaaibi.xyz",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.13"
+    },
+    "ctime": 1457945618,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1457944060,
+        "hash": "c7f100c0cab309371ef3095034d931c70279ff8abf587f189f13a287cadb2aed145b7f7f9db50019ef27a69acbe504a39ece59618870930d8f00a3de1d55103b",
+        "seqno": 406180
+    },
+    "prev": "315be78eb4d3f619bfcf9f07bb6aa441666dd1f719a64e4c2cc59fa756faf5cb",
+    "seqno": 24,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEglKjfI4nOR7U7PwUJh0CWoDXXctADQ1XwPJKsezOCtDUKp3BheWxvYWTFAvR7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMzdmYzFjOWI4MzgxNDI3OGQxOGE5NzQwZDI1MGZlNTdlMTZkNjA2YzU5NjU3ZGQ2ZmFmMzg3ODJjNmNjMmM1YjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOTRhOGRmMjM4OWNlNDdiNTNiM2YwNTA5ODc0MDk2YTAzNWQ3NzJkMDAzNDM1NWYwM2M5MmFjN2IzMzgyYjQzNTBhIiwidWlkIjoiMGExZjczOGMxN2ZmYjllMDFjZGI2ZDJhZjAzMTMwMDAiLCJ1c2VybmFtZSI6InNwc2FhaWJpIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJzcHNhYWliaS54eXoiLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjEzIn0sImN0aW1lIjoxNDU3OTQ1NjE4LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NTc5NDQwNjAsImhhc2giOiJjN2YxMDBjMGNhYjMwOTM3MWVmMzA5NTAzNGQ5MzFjNzAyNzlmZjhhYmY1ODdmMTg5ZjEzYTI4N2NhZGIyYWVkMTQ1YjdmN2Y5ZGI1MDAxOWVmMjdhNjlhY2JlNTA0YTM5ZWNlNTk2MTg4NzA5MzBkOGYwMGEzZGUxZDU1MTAzYiIsInNlcW5vIjo0MDYxODB9LCJwcmV2IjoiMzE1YmU3OGViNGQzZjYxOWJmY2Y5ZjA3YmI2YWE0NDE2NjZkZDFmNzE5YTY0ZTRjMmNjNTlmYTc1NmZhZjVjYiIsInNlcW5vIjoyNCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBgtl/UD3voJkcidfxhNexThqXNGG8j6oq3XIcVEViSy2qod21JZ8ZfWfy/KGrwksrGLKJ0sdhc9SzjrYtQ2FgPqHNpZ190eXBlIKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/spsaaibi
+
+==================================================================
