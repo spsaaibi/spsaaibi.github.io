@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Creative portfolio</title>
+    <title>Posts on Data Science and Machine Learning</title>
     <link>/post/index.xml</link>
-    <description>Recent content in Posts on Creative portfolio</description>
+    <description>Recent content in Posts on Data Science and Machine Learning</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2016 Your name or company</copyright>
