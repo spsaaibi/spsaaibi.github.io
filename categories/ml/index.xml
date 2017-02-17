@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ml on AI, Machine Learning and Data Science</title>
-    <link>http://spsaaibi.science/categories/ml/index.xml</link>
+    <link>/categories/ml/index.xml</link>
     <description>Recent content in Ml on AI, Machine Learning and Data Science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 Sebastian Perez Saaibi</copyright>
-    <atom:link href="http://spsaaibi.science/categories/ml/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/ml/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello Data</title>
-      <link>http://spsaaibi.science/portfolio/2017-02-13-hello-data/</link>
+      <link>/blog/2017-02-13-hello-data/</link>
       <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://spsaaibi.science/portfolio/2017-02-13-hello-data/</guid>
+      <guid>/blog/2017-02-13-hello-data/</guid>
       <description>&lt;!-- BLOGDOWN-HEAD --&gt;
 
 
