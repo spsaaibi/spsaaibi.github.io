@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/spsaaibi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://spsaaibi.science
+  * I am spsaaibi (https://keybase.io/spsaaibi) on keybase.
+  * I have a public key with fingerprint B94B 1A33 9AE0 A54F 29EA  3999 CC27 93D3 444A 685B
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010137fc1c9b83814278d18a9740d250fe57e16d606c59657dd6faf38782c6cc2c5b0a",
+            "fingerprint": "b94b1a339ae0a54f29ea3999cc2793d3444a685b",
+            "host": "keybase.io",
+            "key_id": "cc2793d3444a685b",
+            "kid": "0101f9da916b105b4b1efe4e9b53be8df9088db214d8002ae242772e434cffa03f2a0a",
+            "uid": "0a1f738c17ffb9e01cdb6d2af0313000",
+            "username": "spsaaibi"
+        },
+        "revoke": {
+            "sig_ids": [
+                "feeced8b5ac089fc4449368808735d8ee5418f051f773ccdf560ff8c304dfedc0f"
+            ]
+        },
+        "service": {
+            "hostname": "spsaaibi.science",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1487201919,
+    "expire_in": 157680000,
+    "prev": "67e44d1c326bf00db9ebc18e238be25e093f33f27f33675961875de3f9ede65a",
+    "seqno": 40,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.62
+Comment: https://keybase.io/crypto
+
+yMOvAnicbVJ9TJVVHL7IV4KIMSwBC/aOZDaE836f906lQgFdBNa1ELHL+77nnHvf
+Qfe93PeCIlkMRYfSH+kwk6A2EylKceWkzE1UFBNb5HTgBx+NIQ6nITmdLOlcqrW1
+/jln55zn9zzP7zm/s1HBtoignpQ9l1esdq8Putj5sNxW8Pno+1WMZqJKxl7FlOCZ
+DZcibPmdJQZi7AxgAcvLRGd1RYM8ZAVOhoiFqiILAHEiIFiUMSshCUi6qEiijJBE
+VMJDGXK6pOucLmpAZVIZYnhc2Of1GR4/pdUUQWNVnldUDFRRIJyCVV5RFFogKzzi
+BUFQJShqtNBtWoEKak5TLZxmmPSOHpwz9v4H/69voiBVYSWNBaJG5TDBAlY0kdcw
+REQBECKNYwUEAeBUzNHOZA4LvKATogKecOqM7/K/6FSWyDzUWZkQTcGA1ZEmIU4l
+gGd5AEAAaGGfR30HU7TltVTV0AxmSyrjwxVmCQ7kahkuatpi7OsZgrGOEdREVQdQ
+ITq1r/AShADKvIggxqLAQgJEKirzuo6IKAFCoM4DARGMdECYDZSbKlYY+gx5IKX/
+qKdZuoE99DmV8fpMv6mbpfTV7fd77QFj/kpvAL0Ra86/eZya4UH0m2hBBfZZhulh
+7CxF6n4jQMwKUOYAq7BKKoM3eQ0fdhoBhChLNEIAAjK4glJKMhYExOo8J2kEAEQD
+03QWYo6HGuZEDBSe8DRgma6STKeGhbKIME8UjLAkBlK3cJnHZOwCJfWrrkBThsuj
++st9mNlyurMoxBYUYQsLnRWYX1vE7Hn/TPXwuejpktvt/LHdjsF1tb7Yq1ama07D
+YyZrZXL2oRdtj1qi906cz2w7cuD5uXG912vMc3Vbw6Nyln77SuvYqSVPNUf2JQ6E
+D1wI+gnHbz0TIrd/cab663uNK1B8cfrF5ONmVed92+G7u/+obYrcfzxs/fJfJ5MW
+9jMTJ23NFzpCitVf1jxOXHI977Xgqdo0XHT0y/bsjMRbp5tuhJfP63lrLDG8un7z
+4rH4hKRtsLZ3xcOI8YG+kSf78ysvvMGxyo+/jY/deG90YV8yE7W7rH97geIe2fFd
+c6W6Yzg5MXriZkXtog+zHZtXJnlWgebpnrB7sfXXD6yJfTavy2xwT+aPnMwJ7h2a
+6vDnxjiPJAzO9qbHT+1rjeNmZxzdOd19aFg4fOmlfEdbd0rRZyftLV17y+7uKm1+
+IfLj2qs30xpzT7ze/8GAu9hwcMs2NMmrhOpQvKvtUf+DiMKWawsfDsYcvv32z9vZ
+asfRmnUg/cHaK5FzuoKyXm7ZtrSx9aOGV68UM+Xk++jlcadC7iQsKrRdnmSWPalv
+rd+n7+yqx0bonitZ46vN+dfix7mJuu68Z37oFJ3nt47uK7if1bugI3PT0OKalFvf
+xKfEZQb3/Z47FP1udnedurbQ9emb7Q6rw38po+fsyhMxI+ST+TbnUJI8q+vggqpj
+QcP1k6v6yg+6ii5XFHRx4XPvbHyO6W//KvPpnD8BJELYHg==
+=kstO
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/spsaaibi
+
+==================================================================
