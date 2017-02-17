@@ -1,0 +1,10 @@
+---
+title: Hello Data
+author: Sebastian Perez Saaibi
+date: '2017-02-17'
+draft: false
+image: "img/portfolio/sn_viz.png"
+---
+
+
+I decided to revamp my blog about Machine Learning, AI and Data Science in the real word. This time, I decided to use [`blogdown`](https://github.com/rstudio/blogdown) and [`hugo`](https://gohugo.io/). This was a breeze thanks to [Yihui](https://yihui.name/), [Amber](https://proquestionasker.github.io/blog/Making_Site/) and [Robert](http://robertmyles.github.io/2017/02/01/how-to-make-a-github-pages-blog-with-rstudio-and-hugo/) for the helpful documentation!. And now, for the journey!

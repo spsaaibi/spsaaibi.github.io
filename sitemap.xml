@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>/spsaaibi.science/portfolio/2017-02-13-hello-data/</loc>
+    <lastmod>2017-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/spsaaibi.science/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/spsaaibi.science/about/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/spsaaibi.science/about/</loc>
+    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/spsaaibi.science/portfolio/2016-01-05-static-and-interactive-viz/</loc>
+    <lastmod>2016-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/spsaaibi.science/about/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/spsaaibi.science/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/spsaaibi.science/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/spsaaibi.science/</loc>
+    <lastmod>2017-02-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/spsaaibi.science/categories/htmlwidgets/</loc>
+    <lastmod>2016-01-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/spsaaibi.science/portfolio/</loc>
+    <lastmod>2017-02-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/spsaaibi.science/categories/visualization/</loc>
+    <lastmod>2016-01-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
