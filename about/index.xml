@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abouts on Data Science and Machine Learning</title>
+    <title>Abouts on AI, Machine Learning and Data Science</title>
     <link>/about/index.xml</link>
-    <description>Recent content in Abouts on Data Science and Machine Learning</description>
+    <description>Recent content in Abouts on AI, Machine Learning and Data Science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 Sebastian Perez Saaibi</copyright>

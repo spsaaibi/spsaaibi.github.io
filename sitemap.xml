@@ -2,56 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/portfolio/2017-02-13-hello-data/</loc>
+    <loc>http://spsaaibi.science/portfolio/2017-02-13-hello-data/</loc>
     <lastmod>2017-02-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
-    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/portfolio/2016-01-05-static-and-interactive-viz/</loc>
+    <loc>http://spsaaibi.science/portfolio/2016-01-05-static-and-interactive-viz/</loc>
     <lastmod>2016-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
-    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
+    <loc>http://spsaaibi.science/</loc>
     <lastmod>2017-02-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/htmlwidgets/</loc>
+    <loc>http://spsaaibi.science/categories/ai/</loc>
+    <lastmod>2017-02-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://spsaaibi.science/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://spsaaibi.science/categories/htmlwidgets/</loc>
     <lastmod>2016-01-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/portfolio/</loc>
+    <loc>http://spsaaibi.science/categories/intro/</loc>
     <lastmod>2017-02-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/visualization/</loc>
+    <loc>http://spsaaibi.science/categories/ml/</loc>
+    <lastmod>2017-02-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://spsaaibi.science/portfolio/</loc>
+    <lastmod>2017-02-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://spsaaibi.science/categories/visualization/</loc>
     <lastmod>2016-01-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

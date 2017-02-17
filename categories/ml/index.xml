@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ml on AI, Machine Learning and Data Science</title>
+    <link>http://spsaaibi.science/categories/ml/index.xml</link>
+    <description>Recent content in Ml on AI, Machine Learning and Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2017 Sebastian Perez Saaibi</copyright>
+    <atom:link href="http://spsaaibi.science/categories/ml/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello Data</title>
+      <link>http://spsaaibi.science/portfolio/2017-02-13-hello-data/</link>
+      <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://spsaaibi.science/portfolio/2017-02-13-hello-data/</guid>
+      <description>&lt;!-- BLOGDOWN-HEAD --&gt;
+
+
+
+&lt;!-- /BLOGDOWN-HEAD --&gt;
+
+&lt;!-- BLOGDOWN-BODY-BEFORE --&gt;
+
+&lt;!-- /BLOGDOWN-BODY-BEFORE --&gt;
+
+&lt;p&gt;&lt;strong&gt;2017-02-17&lt;/strong&gt; Welcome! I decided to revamp my blog about Machine Learning, AI and Data Science in the real word. This time, I used &lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;&lt;code&gt;blogdown&lt;/code&gt;&lt;/a&gt; and &lt;a href=&#34;https://gohugo.io/&#34;&gt;&lt;code&gt;hugo&lt;/code&gt;&lt;/a&gt;. This was a breeze thanks to all the work from &lt;a href=&#34;https://yihui.name/&#34;&gt;Yihui&lt;/a&gt; as well as the helpful blogposts from &lt;a href=&#34;https://proquestionasker.github.io/blog/Making_Site/&#34;&gt;Amber&lt;/a&gt; and &lt;a href=&#34;http://robertmyles.github.io/2017/02/01/how-to-make-a-github-pages-blog-with-rstudio-and-hugo/&#34;&gt;Robert&lt;/a&gt;. And now, for the journey!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
